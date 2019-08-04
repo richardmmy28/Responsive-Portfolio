@@ -1,6 +1,7 @@
 
 #container {
   background-color: lightgrey;
+  height: 100%;
   
 }
 
@@ -211,4 +212,14 @@ input[type=submit] {
   clear: both;
   display: table;
 }
+
+@media only screen and (max-width: 640px) {
+}
+@media only screen and (max-width: 760px) {
+}
+@media only screen and (max-width: 980px) {
+}
+
+
+
 
