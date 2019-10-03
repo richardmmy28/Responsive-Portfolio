@@ -1,10 +1,6 @@
-body {
-      background-image: 
-}
 
-#container {
-margin-right: 10px;
-
+#app{
+  background-color : red;
 }
 
 .jumbotron {
@@ -17,11 +13,11 @@ margin-right: 10px;
 .mypic {
   float: left;
   margin-left: 15px;
+  transform: rotate(0.5turn);
 
 }
 
 h1 {
-  margin-left: 30px;
   font-family: 'Catamaran', sans-serif;
 }
 
@@ -33,7 +29,7 @@ h1 {
 .lead {
   margin-left: 100px;
   font-family: 'Big Shoulders Display', cursive;
-  
+  transform: rotate(0.5turn);
 }
 
 .navs {
